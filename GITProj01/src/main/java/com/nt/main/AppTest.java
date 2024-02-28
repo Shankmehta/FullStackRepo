@@ -12,6 +12,6 @@ public class AppTest
 	  System.out.println("---------------");
 	  System.out.println("----------------");
 
-	  System.out.println("mul:"+ar.mul(100,300));
+	  System.out.println("mul:"+ar.mul(100,300));//123
    }
 }
